@@ -1,0 +1,84 @@
+Profile / Presence Feature Parity
+
+1. Profile Plus
+    - Profile Plus should only be sent to O&O 
+    - Should not go out to publisher network
+2. Presence 
+    - Expanded into publisher network
+    - CTN enabled
+3. FM 18 - Does Advertiser have to be admin of page
+         - Does yp require any confirmation
+4. FM 21 - No Ads on BP
+5. FM 27 - Is this paid placement , is this currently beind done
+
+
+BR Review - 
+
+BR 1 - No product dependencies (Assumption: This can be purchased without other product , more details required)
+
+BR 2 - There an upgrade path for advertiser
+     - What is the value add for a ypLocal advertiser adding presence , in your matrix the ypLocal Ads have all the features of presence
+     
+Workflow - 
+    - SAME CTN's should be used to represent the same locations of the same businesses (Question: Does this mean that the advertiser can have multiple CTN for different location?)
+    - How is MLP product impacted since they have different locations with different numbers
+    - (Advertiser may opt-out of CTN) - Does this reduce the cost of the product or is the more inline with not using a functionality
+    - Can the Advertiser use their own CTN?
+    - Can the Advertiser opt-out of using their CTN on the YP publisher network?(I know they can opt-out of yext)
+    - Can Advertiser keep multi-CTN model during renewal or are they switched to using one CTN
+    - Is CTN now at the Advertiser Level instead of the product level
+    - Does Advertiser have apporval of CTN number? Can they reject?
+
+Matrix:
+
+Adverister with nothing - 2 CTN's provided by default: 1 for organic Presence+, and 1 for paid ypLocalAds
+    - This break covention you specified above can you provide insight.
+    - For paid listing does ypLocal trump other products?
+
+ypPresence Plus 
+    - Keep Presence CTN, if Advertiser did not opt-out
+    - Use same CTN for ypLocalAds Note: ypLA Local Ad Network sites 
+
+ypLocal Ads - 
+
+    - Keep ypLocalAds CTN for ypLocalAds
+    - Add new organic CTN for Profile Plus and Presence Plus
+        - Can opt out of distributing CTN's on Yext network
+        - Note: ypLA Local Ad Network sites would distribute CTN's, if ypLA has CTN's
+            - ***- This will cause issues where two different number will display between organic and paid ad
+
+Business Requirement (MVP)
+BR# 2 -    
+      -  mobile should default to "call now"
+      - *** - Assuming the default CTN will be used - ***
+
+BR# 3 - Custom Slogan
+    
+    - "Extra Line 50" takes priority over "additional text," which takes priority over "slogan." - Slogan
+    - I am assuming the character limits are identical for each field
+    - Is the required for ypLocal Ads?
+    - Are publisher expected to follow the priority?
+    - "Extra Line 50" - This is not be widely used by our publisher 
+    - They are using slogan
+
+BR# 4 - 
+    - Should user upload image take priority to publisher network
+    - Is photos sent in an ordered list to publisher
+
+BR# 18- How are CTN handled for a bronze listing
+     - Are there any changes
+    
+    
+    
+    
+    Call to Action:
+    1. Custom Message plus a button
+    2. Call now cannot be used 
+     - Call to Action - Enable into API 
+    3. Add BRD in publisher API
+    
+    
+    
+    
+    
+    

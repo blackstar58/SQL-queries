@@ -1,0 +1,27 @@
+1. New Uber PLL in both:
+     - Desktop
+     - Mobile
+2. Logic Points System 
+    - How is it calculated?
+3. New product / Not point based
+4. Only show 33% of time even with no competitions
+5. New sorting rules - 
+    1 listing = 33% - 0% - 0%
+    2 listing = 33% - 33% - 0%
+    3 listings = 33% - 33% - 33%
+6. 
+
+
+    "MOBWEB|*|*|*" : {
+      "maximumTotalAdCount" : 6,
+      "maximumAdCounts" : {
+        "THIRD_PARTY" : 2
+      },
+      "opportunities" : {
+        "CONTRACTUAL_GUARANTEED" : 1.0
+      },
+      "opportunityOverrides" : [ {
+        "adType" : "CONTRACTUAL_GUARANTEED",
+        "conditions" : [ "IF_CONTRACTUAL_NON_GUARANTEED", "IF_PERFORMANCE" ],
+        "conditionOperator" : "OR",
+        "opportunities" : [ 0.5, 0.5, 0.75 ]

@@ -1,0 +1,116 @@
+Targetting - 
+
+Recmonnedation:
+     - Categorization for consumer layer 
+     - ypSM needs to support category match
+Option - 
+    - Key words list for Wolfpak
+    - ypSM targetting
+    
+Geo - 
+    Reccomendation - 
+            - ypSM Targeting
+                - City 
+                - State
+                - DMA
+                - State
+                - Zipcode
+                - National
+                - Point Radius 
+    Optional:
+            - Negative supported
+            
+
+Day Parting
+        - Recommended
+            - Always on
+        - Option:    
+            - customization
+            - Special Instructions
+             
+Device 
+        - Recommneded
+            - Desktop
+Bid Adjustments - 
+        - Recommneded
+            - None
+
+Ad Copies - Support new elements
+
+Editorial - 
+        - Recommeneded
+            - None
+            - By Pass Serenity
+            
+            
+            
+            3 Ads - 
+                - Based on budget and CPC
+                - Total Yield 
+                - Calcuate % of total yield 
+                
+
+Fixed Price - 
+            - Model 
+            - Looking ahead to open a second slot issue 
+            - Ad solution currently avalible
+            
+            
+
+On Boarding - 
+            - Sold through Saturn 
+            - Content collection form
+            - Questions:
+                - What are the Minimum to publish?
+                - Can advertiser buy multiple categories
+                - Is the separtate CPC's per category
+            - Assumption 
+                - YPID Information
+                - Automated Part will be based on YPID
+            - Content Collection form
+                - Special instruction is manually done on ypSM UI
+            - All the parameters specified above
+            - Default Map geo-targetting 
+            - Uber PLL has tier 15 
+            - Where are we getting the following:
+                - CPC
+                - Contract Length
+                - Budget
+                    - Currently not avalible in MDM
+            - Ifullfill flow 
+                - CPC
+                - Contract Length
+                - Budget
+            - CID mapped to an account on ypSM
+                - YPID mapped to an campaigns 
+
+
+            
+            
+
+
+
+
+
+
+MVP - Maunal  - Non - Supprotin 
+Click to reveal phone number  - value
+
+Richard Park 
+Wendell Hikcen 
+    
+Business Location 
+- prioritization 
+    - Addresss
+    - 
+    
+- Addreess
+- Serving location 
++ headline if avabla 
+
+
+Video
+360
+
+
+

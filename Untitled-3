@@ -1,0 +1,53 @@
+- click to lead rate 
+- CPL (for these SERP vs. CPL MIP)
+- Landing Page & extension 
+- Show on the landing page 
+- Procure CTN launching 
+- Toivo and Raghu during serving time 
+- New parameter (SERP or MIP)
+     - If MIP serve CTN
+Procure 2 new CTN 
+ - One to replace SERP CTN
+ - One to replace MIP CTN 
+
+- How many account 
+
+- shotaro data
+- Call quality on mip just as good to serp
+- Data to support 
+
+- Test is going to give them 
+    - quality of call mip vs. serp
+- Up to thmem 
+
+
+
+Ahmed Syed 
+YP | Principal Product Manager
+Ad Delivery
+T 818-254-3923
+YP can do that.℠
+mobile · online · print · ad network
+YP, the even-more-powerful Yellow Pages.
+yp.com | yp app
+
+
+hdfs://nameservice1/user/as7639/hive/
+
+Add CID - 295844
+Tier 900 - 187605
+
+select
+0: jdbc:hive2://prod-hive-mr-ds.v.int.ev1.yp.> a.mm,a.dd,split(coalesce(normalization_map['sct'], 'null'), ',')[0], 
+0: jdbc:hive2://prod-hive-mr-ds.v.int.ev1.yp.> a.normalization_map['moi'],count(normalization_map['en'])
+0: jdbc:hive2://prod-hive-mr-ds.v.int.ev1.yp.> from
+0: jdbc:hive2://prod-hive-mr-ds.v.int.ev1.yp.> normalized_traffic_events a
+0: jdbc:hive2://prod-hive-mr-ds.v.int.ev1.yp.> where
+0: jdbc:hive2://prod-hive-mr-ds.v.int.ev1.yp.> a.yyyy=2017 and
+0: jdbc:hive2://prod-hive-mr-ds.v.int.ev1.yp.> a.mm=05 and
+0: jdbc:hive2://prod-hive-mr-ds.v.int.ev1.yp.> a.dd=03 and
+0: jdbc:hive2://prod-hive-mr-ds.v.int.ev1.yp.> normalization_map['tq'] = 0 and
+0: jdbc:hive2://prod-hive-mr-ds.v.int.ev1.yp.> normalization_map['tier'] = '900'
+0: jdbc:hive2://prod-hive-mr-ds.v.int.ev1.yp.> group by
+0: jdbc:hive2://prod-hive-mr-ds.v.int.ev1.yp.> a.mm,a.dd,split(coalesce(normalization_map['sct'], 'null'), ',')[0], 
+0: jdbc:hive2://prod-hive-mr-ds.v.int.ev1.yp.> a.normalization_map['moi'];
